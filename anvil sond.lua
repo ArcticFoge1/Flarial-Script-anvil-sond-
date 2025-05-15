@@ -1,4 +1,4 @@
-name = "Play Sound on Win"
+name = "Play anvil sond"
 description = "Plays a sound when 'You killed' is said in chat"
 
 onEvent("ChatReceiveEvent", function(message, name, type)
